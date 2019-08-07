@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     name: `Home Improvement Services for Sam’s Club Members`,
     tagline: `Take advantage of home improvement services from the industry’s top brands.`,
-    githubLink: `www.google.com`,
+    githubLink: `https://github.com/syedahmedhussaini/fit-contentful-gatsby`,
   },  
   plugins: [
     `gatsby-plugin-sass`,
